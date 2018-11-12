@@ -1,0 +1,14 @@
+Transactions:
+
+- Donor
+	-Registration
+	-add
+	-search
+	-view
+- Blood/Blood component
+	-search
+	-view
+-Request:
+	-Hospital Registration
+	-status
+	-view
