@@ -1,0 +1,9 @@
+BloodGroup_idBloodGroup,FirstName,MiddleName,LastName,CNIC,PersonalContact,DoB,Gender,Weight_,Address_,City,Province,EmergencyContact,UserName,Password_2
+100,Lala,rukh,abbas,4250104212345,2347561,11-8-1995,F,50,addrs007,Karachi,Sindh,7354261,lra1,pwd*
+101,Rasheeda,a,chaudhry,4250104212346,3247561,12-7-1994,F,55,addrs008,Islamabad,Punjab,4357261,rac2,pwd-
+102,sara,b,bilal,4250104212347,4237561,1-5-1994,f,50,addrs009,Lahore,Punjab,3457261,lra2,pwd/
+103,fauzia,c,hasan,4250104212348,2437561,2-3-1993,f,55,addrs010,Peshawar,Khyber Pakhtunkhwa,5437261,rac3,pwd!
+104,Awais,d,rizvi,4250104212349,3427561,3-4-1992,M,60,addrs011,Gilgit,Gilgit Baltistan,4537261,lra3,pwd%
+106,Nabeel,e,hasan,4250104212350,4327561,4-3-1991,M,65,addrs012,Quetta,Balochistan,3547261,rac4,pwd*2
+107,Kisa,f,rizvi,4250104212351,4372561,5-2-1990,F,50,addrs013,Hyderabad,Sindh,5347261,lra4,pwd-3
+,,,,,,,,,,,,3472561,rac5,pwd/4

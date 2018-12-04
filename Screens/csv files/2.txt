@@ -1,0 +1,2 @@
+idRequest,Status_2_idStatus_2,Transportation_idTransportation,Hospital_Hosp_Id,TotalQuantity,ProvideBy,Blood_Type
+idStatus_2,StatusName
